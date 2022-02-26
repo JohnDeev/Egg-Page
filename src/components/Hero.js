@@ -7,7 +7,7 @@ export const Hero = () => {
         <h1 className="lg:text-9xl md:text-7xl sm:text-5xl text-4xl font-bold mb-14">
             EGGCELLECT
         </h1>
-        <Link className="py-6 px-10 bg-orange-500 rounded-full text-3xl hover:bg-yellow-300 transition duration-300 ease-in-out flex items-center animate-bounce" to='/' >
+        <Link className="py-6 px-10 bg-yellow-500 rounded-full text-3xl hover:bg-yellow-300 transition duration-300 ease-in-out flex items-center animate-bounce" to='/' >
              Now Order
              <svg 
              xmlns="http://www.w3.org/2000/svg" 
